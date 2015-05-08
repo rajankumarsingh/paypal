@@ -1,4 +1,6 @@
-<?php defined('SYSPATH') or die('No direct script access.');
+<?php 
+defined('DATARKS') or die('No direct script access.');
+defined('SYSPATH') or die('No direct script access.');
 /**
  * Abstract PayPal integration.
  *
